@@ -7,5 +7,5 @@ They also include the log plots of the value they approach over time.
       <img src = "https://github.com/nileshpatra/RL_CODES/blob/master/Figure_1.png">
 - ``` optimistic initial  value```
 - ``` UCB1```<br>
-      result ( the algo approaches most profitable bandit and is more accurate than first two algos)-- <br>
+      result ( the algo approaches most profitable bandit and is more accurate than first two algos )-- <br>
       <img src = "https://github.com/nileshpatra/RL_CODES/blob/master/ucb_plot.png">
